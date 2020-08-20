@@ -2,6 +2,8 @@
 
 A Flutter application using News API .
 Lists out the Top headlines and Categories.
+
+
 ![Project-Demo](https://github.com/bsguru95/NewsFlash/blob/master/NewsFlash.gif)
 
 ## Getting Started
