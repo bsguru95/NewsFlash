@@ -1,6 +1,7 @@
 # news_app
 
-A new Flutter application.
+A Flutter application using News API .
+Lists out the Top headlines and Categories.
 
 ## Getting Started
 
