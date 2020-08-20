@@ -21,7 +21,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## LICENSE
 
-Copyright [2020] [Gururaj B S]
+Copyright 2020 Gururaj B S
 
 Licensed under the Apache License, Version 2.0 (the "LICENSE"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
