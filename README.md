@@ -1,10 +1,14 @@
 # news_app
 
-A Flutter application using News API .
+A Flutter application using [News API](https://newsapi.org/) .
 Lists out the Top headlines and Categories.
 
+## How to use
+Please open file secret.dart and change YOUR_API_KEY in the variable apiKey with your own.
 
-![Project-Demo](https://github.com/bsguru95/NewsFlash/blob/master/NewsFlash.gif)
+
+
+![Project-Demo](https://github.com/bsguru95/NewsFlash/blob/master/pulltorefresh.gif) ![Project-demo](https://github.com/bsguru95/NewsFlash/blob/master/NewsFlash.gif)
 
 ## Getting Started
 
