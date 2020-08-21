@@ -8,7 +8,7 @@ Please open file secret.dart and change YOUR_API_KEY in the variable apiKey with
 
 
 
-![Project-Demo](https://github.com/bsguru95/NewsFlash/blob/master/pulltorefresh.gif) ![Project-demo](https://github.com/bsguru95/NewsFlash/blob/master/NewsFlash.gif)
+![Project-Demo](https://github.com/bsguru95/NewsFlash/blob/master/pulltorefresh.gif)               ![Project-demo](https://github.com/bsguru95/NewsFlash/blob/master/NewsFlash.gif)
 
 ## Getting Started
 
